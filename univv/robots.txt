@@ -1,0 +1,5 @@
+# Masarak Aljamei — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://nosbos2323.github.io/university-careers-ar/sitemap.xml
